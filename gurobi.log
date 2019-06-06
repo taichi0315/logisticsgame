@@ -28,3 +28,127 @@ Iteration    Objective       Primal Inf.    Dual Inf.      Time
 
 Solved in 3 iterations and 0.01 seconds
 Optimal objective  3.000000000e+02
+
+Gurobi 8.1.0 (mac64, Python) logging started Fri Jun  7 02:00:42 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 3 rows, 9 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 1e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 3 rows and 9 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.0000000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  3.000000000e+02
+Optimize a model with 3 rows, 27 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 1e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 3 rows and 27 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.0000000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  3.000000000e+02
+Optimize a model with 3 rows, 9 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 1e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 3 rows and 9 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.0000000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.05 seconds
+Optimal objective  3.000000000e+02
+Optimize a model with 3 rows, 9 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 1e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 3 rows and 9 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.0000000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  3.000000000e+02
+Optimize a model with 3 rows, 9 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 1e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 3 rows and 9 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.0000000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  2.000000000e+02
+Optimize a model with 3 rows, 9 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 1e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 3 rows and 9 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.0000000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  3.000000000e+02
+Optimize a model with 3 rows, 12 columns and 9 nonzeros
+Variable types: 9 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 3 rows and 12 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 300 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.000000000000e+02, best bound 3.000000000000e+02, gap 0.0000%
+Optimize a model with 12 rows, 12 columns and 27 nonzeros
+Variable types: 9 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+01, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 12 rows and 12 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 300 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.000000000000e+02, best bound 3.000000000000e+02, gap 0.0000%
