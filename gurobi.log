@@ -2768,3 +2768,64 @@ Solution count 2: 400 1000
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 4.000000000000e+02, best bound 4.000000000000e+02, gap 0.0000%
+Optimize a model with 40 rows, 28 columns and 104 nonzeros
+Variable types: 16 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [5e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+01]
+
+Loaded MIP start with objective 400
+
+Presolve removed 40 rows and 28 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 400 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+02, best bound 4.000000000000e+02, gap 0.0000%
+Optimize a model with 16 rows, 16 columns and 40 nonzeros
+Variable types: 8 continuous, 8 integer (8 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [5e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+01]
+Presolve removed 16 rows and 16 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 400 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+02, best bound 4.000000000000e+02, gap 0.0000%
+Optimize a model with 68 rows, 56 columns and 172 nonzeros
+Variable types: 32 continuous, 24 integer (24 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [5e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+01]
+
+MIP start produced solution with objective 400 (0.01s)
+Loaded MIP start with objective 400
+
+Presolve removed 68 rows and 56 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 400 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+02, best bound 4.000000000000e+02, gap 0.0000%
