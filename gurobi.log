@@ -2651,3 +2651,56 @@ Solution count 1: 150
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 1.500000000000e+02, best bound 1.500000000000e+02, gap 0.0000%
+Optimize a model with 12 rows, 12 columns and 27 nonzeros
+Variable types: 9 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [5e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 12 rows and 12 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 150 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+02, best bound 1.500000000000e+02, gap 0.0000%
+
+Gurobi 8.1.0 (mac64, Python) logging started Tue Jun 11 23:01:26 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 13 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Optimize a model with 12 rows, 12 columns and 27 nonzeros
+Variable types: 9 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [5e+00, 1e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Presolve removed 8 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 4 rows, 6 columns, 9 nonzeros
+Variable types: 3 continuous, 3 integer (3 binary)
+
+Root relaxation: objective 1.150000e+03, 3 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    1150.0000000 1150.00000  0.00%     -    0s
+
+Explored 0 nodes (3 simplex iterations) in 0.01 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 1150 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.150000000000e+03, best bound 1.150000000000e+03, gap 0.0000%
