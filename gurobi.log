@@ -2749,3 +2749,22 @@ Solution count 1: 2200
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 2.200000000000e+03, best bound 2.200000000000e+03, gap 0.0000%
+Optimize a model with 12 rows, 28 columns and 32 nonzeros
+Variable types: 16 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [5e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Found heuristic solution: objective 1000.0000000
+Presolve removed 12 rows and 28 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 2: 400 1000 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+02, best bound 4.000000000000e+02, gap 0.0000%
