@@ -2524,3 +2524,12 @@ Solution count 1: 0
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.0 (mac64, Python) logging started Tue Jun 11 21:28:58 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 13 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
