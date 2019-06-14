@@ -5332,3 +5332,19 @@ Solution count 10: 93384.8 93468.8 95378.8 ... 153917
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 9.338480000000e+04, best bound 9.338480000000e+04, gap 0.0000%
+Optimize a model with 1760 rows, 5610 columns and 11176 nonzeros
+Variable types: 0 continuous, 5610 integer (2750 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
